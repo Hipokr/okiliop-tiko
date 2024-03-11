@@ -1,0 +1,23 @@
+{
+  "name": "okiliop-tiko",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hipokr/okiliop-tiko.git"
+  },
+  "dependencies": {
+    "offret-culio": "1.0.0",
+    "banka-lopin": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hipokr/okiliop-tiko/issues"
+  },
+  "homepage": "https://github.com/Hipokr/okiliop-tiko#readme"
+}
